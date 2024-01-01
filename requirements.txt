@@ -1,0 +1,12 @@
+pip install platform
+pip install psutil
+pip install speedtest-cli
+pip install socket
+pip install os
+pip install re
+pip install uuid
+pip install pyautogui
+pip install sys
+pip install PyQt5
+pip install subprocess
+pip install getmac
